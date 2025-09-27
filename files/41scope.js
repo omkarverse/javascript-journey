@@ -8,4 +8,6 @@ let greet = function(){
     console.log("hello");
 }
 
+
 highvaluescope(greet, 100);
+//this program will call the greet function 100 times 
