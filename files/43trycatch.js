@@ -10,4 +10,7 @@ catch{
 
 console.log("hello");
 console.log("hello");
+
 console.log("hello");
+
+//all log will be print after catch statement is sucessfully executed
