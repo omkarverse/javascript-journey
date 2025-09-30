@@ -12,3 +12,9 @@ console.log(imgobj);//gives the src link of an image
 console.dir(imgobj);//we can manupulate the image
 
 
+console.log(imgobj.src);
+console.log(imgobj.id);
+console.log(imgobj.src="assets/creation_3.jpeg");
+//totally image is changed
+
+
