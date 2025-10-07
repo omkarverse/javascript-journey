@@ -4,10 +4,11 @@ let students = ["omkar", "ketan", "pratik", "abhishek"];
 
 console.log(students[0]);
 // display array index 0 element
-
+//that means 1st element
 
 let info = ["omkar", 22, 8.5]; //mixed array
 // in c++ and java an array is not mixed its only possible in javascript
 
 
 console.log(students.length);// display length
+
